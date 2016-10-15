@@ -1,0 +1,7 @@
+{
+  "name": "Connected App",
+  "short_name": "Connected",
+  "start_url": "/",
+  "display": "standalone",
+  "gcm_sender_id": "482941778795"
+}
